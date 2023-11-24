@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 1
+date: 2022-08-10
+img: frogger.png
+alt: image-alt
+project-date: August 2022
+client: Langara College Project CPSC 1045
+category: JavaScript Basics
+description: A re-criation of 90's Frogger game. Made with what I learned in my first term of college, e.g., JavaScript, HTML, and CSS.
+---
